@@ -55,7 +55,7 @@
 
 （注：此图方便大家明确公开课的各种功能操作）
 
-![功能页面]()
+![功能页面](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/公开课机器人.PNG)
 
 
 
@@ -88,13 +88,13 @@
   >
   > 2. 点击申购，填入所需申购份数（系统会根据你当前 BTC 、EOS、XIN 给出一个最大可申请份数，如果有一种数字货币不足，可以参考 “其他相关问题” 中的 `闪电交易使用方法` 完成数字货币间兑换）
   >
-  >    ![]()
+  >    ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/申购1.PNG)
   >
   > 3. 申购成功后在三个数字货币后分别点击转账，转账完成后点击刷新
   >
   > 4. 完成后你会看到 b.watch 给你发来的消息
   >
-  >    ![]()
+  >    ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/申购2.PNG)
 
 
 
@@ -120,7 +120,7 @@
   >    >
   >    > * 完成之后，BOX兑换机 将会通过 mixin 发送给你交易信息。包括购买的 BTC、EOS、XIN 的数量，以及兑换的 BOX 的数量，并且如果有没有使用的 USDT 也会显示并退还。（BOX兑换机会保障你兑换的 BOX 为整数，所以如果有未用完的 USDT ，BOX 兑换机会原路退还）
   >    >
-  >    >   ![]()
+  >    >   ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/兑换.PNG)
 
 
 
@@ -173,13 +173,20 @@ BOX 的购买是 ExinOne 平台统一定价，无溢价，转账的承兑商仅�
 * 操作方法（通过 Exinone完成）：
 
   > 1. 点击公开课下方机器人选择 Exin，进入Exin的操作界面
+  >
   > 2. 在 “C2C” 界面找到 BOX 并点击 “交易” ，进入交易界面
+  >
   > 3. 输入你要购买的金额，下方选择 “Mixin 钱包” ，点击 “提交订单” ，进入支付方式选择
-  > 4. ![]()
-  > 5. 选择完成后，点击 “确认购买”，进入支付界面（笔者使用是是支付宝，其他如果你选择了其他方式有什么差异也请告诉笔者）
-  > 6. 点击 “收款码” 后面的 “点击展示” ，将图片保存后在支付宝扫描转账即可
-  > 7. 转账完成后点击 “我已付款” ，即可。完成之后，Exinone 将会通过 mixin 发送给你交易信息
-  > 8. ![]()
+  >
+  >    ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/购买1.PNG)
+  >
+  > 4. 选择完成后，点击 “确认购买”，进入支付界面（笔者使用是是支付宝，其他如果你选择了其他方式有什么差异也请告诉笔者）
+  >
+  > 5. 点击 “收款码” 后面的 “点击展示” ，将图片保存后在支付宝扫描转账即可
+  >
+  > 6. 转账完成后点击 “我已付款” ，即可。完成之后，Exinone 将会通过 mixin 发送给你交易信息
+  >
+  >    ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/购买2.PNG)
 
 
 
@@ -201,7 +208,7 @@ BOX 的卖出是卖给 ExinOne 平台，平台统一定价，卖给承兑商的�
 >
 > 6. 完成之后，Exinone 将会通过 mixin 发送给你交易信息
 >
->    ![]()
+>    ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/卖出.PNG)
 
 
 
@@ -239,11 +246,11 @@ USDT 目前有三个版本 ：OMNI、ERC-20、TRC-20
 
 2. 在 “我的” 界面找到 工具箱 并点击进入
 
-   ![]()
+   ​	![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/USDT版本转换1.PNG)
 
 3. 选择来源钱包后，选择你 “想要兑换的版本” 和 “用来兑换的版本” ，并输入金额点击支付即可
 
-   ![]()
+   ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/USDT版本转换2.PNG)
 
 4. **说明：转换有0.05%的手续费**
 
@@ -252,16 +259,14 @@ USDT 目前有三个版本 ：OMNI、ERC-20、TRC-20
 ### 如何用 ExinOne 设置定投
 
 1. 点击公开课下方机器人选择 Exin，进入Exin的操作界面
-
 2. 在 “定投” 界面打开 ”定投开关“ 之后单机定投编辑进入编辑界面
 
 3. 选择定投放入的钱包、定投时间、定投的货币及金额，之后点击保存即可（Exinone只支持按周 / 天定投）
 
-   ![]()
-
 4. 在定投选择的时间，选择定投支付，进入支付界面支付即可（支付操作见上方 “BOX 购买” 中的内容）
-
 5. **另外，笔者理解定投的核心在于长期持有和定期投入，不要 “贪杯” 哦**
+
+![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/定投设置.PNG)
 
 
 
@@ -300,9 +305,9 @@ ExinOne 的安全性问题，官网已经给了相关的解答，笔者给出如
 
 其实主要是看图标，如果没有图标，或者图标如下这样，那么就是假的 BOX Token。官方链接放到下面可以参考
 
-![]()
-
 * [验证真伪 BOX Token]([https://bwatch.zendesk.com/hc/zh-cn/articles/360032542912-%E9%AA%8C%E8%AF%81%E7%9C%9F%E4%BC%AA-BOX-Token](https://bwatch.zendesk.com/hc/zh-cn/articles/360032542912-验证真伪-BOX-Token))
+
+![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/box.png)
 
 
 
@@ -312,8 +317,6 @@ ExinOne 的安全性问题，官网已经给了相关的解答，笔者给出如
 
 2. 选择你 “想要兑换的” 和 “用来兑换的” 数字货币，并输入数量，点击转账后完成转账即可
 
-   ![]()
-
 3. 完成之后，闪电交易 将会通过 mixin 发送给你交易信息
 
-   ![]()
+   ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/转换.PNG)
