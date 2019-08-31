@@ -1,0 +1,5 @@
+A string can be split into substrings using the split(param) method. This method is part of the string object. The parameter is optional, but you can split on a specific string or character.
+
+Given a sentence, the string can be split into words. If you have a paragraph, you can split by phrase. If you have a word, you can split it into individual characters.
+
+In most cases, the split() method will do. For characters, you can use the list method.
