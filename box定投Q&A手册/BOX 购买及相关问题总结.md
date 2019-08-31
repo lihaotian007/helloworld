@@ -156,7 +156,7 @@ BOX 的购买与卖出是使用 人民币 直接购买，由于监管问题，�
 
 ### ExinOne 实名认证
 
-Mixin Network 官网对于 Mixin 的定义是：“Mixin is a publicly distributed ledger aimed to help other publicly distributed ledgers gain trillions of TPS, achieve sub second final confirmations, zero transaction fees, enhanced privacy, and unlimited extensibility.” 简单来说 MiXin 是支持全币种的钱包，同时也是端对端加密的聊天工具，本身没有交易属性，因而实名认证是交易平台所必须的，并非 MiXin 所必须的，这点需要明白 [官网链接]([https://mixin.one](https://mixin.one/)) 
+Mixin Network 官网对于 Mixin 的定义是：“Mixin is a publicly distributed ledger aimed to help other publicly distributed ledgers gain trillions of TPS, achieve sub second final confirmations, zero transaction fees, enhanced privacy, and unlimited extensibility.” 简单来说 MiXin 是支持全币种的钱包，同时也是端对端加密的聊天工具，本身没有交易属性，因而实名认证是交易平台所必须的，并非 MiXin 所必须的，这点需要明白 [官网链接](https://mixin.one/) 
 
 * 操作方法
 
@@ -276,11 +276,11 @@ ExinOne 的安全性问题，官网已经给了相关的解答，笔者给出如
 
 概述来说由于国家监管政策要求在中国境内不允许直接提供法币充值交易，所以 ExinOne 将法币充值交易放到 C2C板块，由平台定价、平台担保、通过用户和承兑商（平台认可且培训）之间的交易来完成。
 
-*  [什么是 C2C（场外）交易？]([https://support.exinone.com/hc/zh-cn/articles/360019637132-%E4%BB%80%E4%B9%88%E6%98%AF-C2C-%E5%9C%BA%E5%A4%96-%E4%BA%A4%E6%98%93-](https://support.exinone.com/hc/zh-cn/articles/360019637132-什么是-C2C-场外-交易-)) 
+*  [什么是 C2C（场外）交易？](https://support.exinone.com/hc/zh-cn/articles/360019637132-什么是-C2C-场外-交易-) 
 
-*  [关于 ExinOne 平台承兑商的说明]([https://support.exinone.com/hc/zh-cn/articles/360025310491-%E5%85%B3%E4%BA%8E-ExinOne-%E5%B9%B3%E5%8F%B0%E6%89%BF%E5%85%91%E5%95%86%E7%9A%84%E8%AF%B4%E6%98%8E](https://support.exinone.com/hc/zh-cn/articles/360025310491-关于-ExinOne-平台承兑商的说明)) 
-*  [平台定价规则]([https://support.exinone.com/hc/zh-cn/articles/360029105712-ExinOne-%E5%AE%9A%E4%BB%B7%E8%A7%84%E5%88%99](https://support.exinone.com/hc/zh-cn/articles/360029105712-ExinOne-定价规则)) 
-*  [关于 Mixin 和 ExinOne 的关系]([https://support.exinone.com/hc/zh-cn/articles/360025013992-%E5%85%B3%E4%BA%8E-Mixin-%E5%92%8C-ExinOne-%E7%9A%84%E5%85%B3%E7%B3%BB](https://support.exinone.com/hc/zh-cn/articles/360025013992-关于-Mixin-和-ExinOne-的关系)) 
+*  [关于 ExinOne 平台承兑商的说明](https://support.exinone.com/hc/zh-cn/articles/360025310491-关于-ExinOne-平台承兑商的说明) 
+*  [平台定价规则](https://support.exinone.com/hc/zh-cn/articles/360029105712-ExinOne-定价规则) 
+*  [关于 Mixin 和 ExinOne 的关系](https://support.exinone.com/hc/zh-cn/articles/360025013992-关于-Mixin-和-ExinOne-的关系) 
 
 
 
@@ -305,7 +305,7 @@ ExinOne 的安全性问题，官网已经给了相关的解答，笔者给出如
 
 其实主要是看图标，如果没有图标，或者图标如下这样，那么就是假的 BOX Token。官方链接放到下面可以参考
 
-*  [验证真伪 BOX Token]([https://bwatch.zendesk.com/hc/zh-cn/articles/360032542912-%E9%AA%8C%E8%AF%81%E7%9C%9F%E4%BC%AA-BOX-Token](https://bwatch.zendesk.com/hc/zh-cn/articles/360032542912-验证真伪-BOX-Token)) 
+*  [验证真伪 BOX Token](https://bwatch.zendesk.com/hc/zh-cn/articles/360032542912-验证真伪-BOX-Token)
 
 ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/box.png)
 
