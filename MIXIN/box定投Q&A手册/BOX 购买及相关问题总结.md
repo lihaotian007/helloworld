@@ -55,7 +55,7 @@
 
 （注：此图方便大家明确公开课的各种功能操作）
 
-![功能页面](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/公开课机器人.PNG)
+![功能页面](https://raw.githubusercontent.com/lihaotian007/helloworld/master/MIXIN/box定投Q%26A手册/picture/公开课机器人.PNG)
 
 
 
@@ -88,13 +88,13 @@
   >
   > 2. 点击申购，填入所需申购份数（系统会根据你当前 BTC 、EOS、XIN 给出一个最大可申请份数，如果有一种数字货币不足，可以参考 “其他相关问题” 中的 `闪电交易使用方法` 完成数字货币间兑换）
   >
-  >    ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/申购1.PNG)
+  >    ![申购1](https://raw.githubusercontent.com/lihaotian007/helloworld/master/MIXIN/box定投Q%26A手册/picture/申购1.PNG)
   >
   > 3. 申购成功后在三个数字货币后分别点击转账，转账完成后点击刷新
   >
   > 4. 完成后你会看到 b.watch 给你发来的消息
   >
-  >    ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/申购2.PNG)
+  >    ![申购2](https://raw.githubusercontent.com/lihaotian007/helloworld/master/MIXIN/box定投Q%26A手册/picture/申购2.PNG)
 
 
 
@@ -114,15 +114,13 @@
   >    >
   >    > * 若非以上两个渠道，笔者给你提供两者图片的差异可以自行判断或联系笔者( mixin 搜索 37322432 )
   >    >
-  >    >   ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/版本样式例子.png)
+  >    >   ![版本样式例子](https://raw.githubusercontent.com/lihaotian007/helloworld/master/MIXIN/box定投Q%26A手册/picture/版本样式例子.png)
   >    >
   >    > * 核对及转换完成之后，输入你要使用的 USDT 数量，点击转账，完成后转账后即可
   >    >
   >    > * 完成之后，BOX兑换机 将会通过 mixin 发送给你交易信息。包括购买的 BTC、EOS、XIN 的数量，以及兑换的 BOX 的数量，并且如果有没有使用的 USDT 也会显示并退还。（BOX兑换机会保障你兑换的 BOX 为整数，所以如果有未用完的 USDT ，BOX 兑换机会原路退还）
   >    >
-  >    >   ![](https://raw.githubusercontent.com/lihaotian007/helloworld/master/box定投Q%26A手册/picture/兑换.PNG)
-
-
+  >    >   ![兑换](https://raw.githubusercontent.com/lihaotian007/helloworld/master/MIXIN/box定投Q%26A手册/picture/兑换.PNG)
 
 ### 赎回
 
